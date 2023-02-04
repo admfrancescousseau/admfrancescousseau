@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesco Cristiano Cousseau</h1>
-<h3 align="center"> Passionate by science and data analysis </h3>
+<h3 align="center"> Passionate by Science and Data Analysis </h3>
 
 - 🌱 I’m currently learning **Power BI, DAX, Python, SQL, VBA, Excel, Power Apps**
 
